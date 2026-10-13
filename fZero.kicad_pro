@@ -665,7 +665,7 @@
         "uuid": "00e1327f-eba2-4ae1-b266-cd87742bb15f"
       }
     ],
-    "used_designators": "#PWR1-42,BT1-2,BZ1,C1-10,D1-18,DS1,J1-3,L1,LED1,Q1-2,R1-12,SC1,SW1-19,TH1,U1-5",
+    "used_designators": "#PWR1-51,BT1-2,BZ1,C1-11,D1-20,DS1,J1-3,L1,LED1,Q1-3,R1-17,SC1,SW1-19,TH1,U1-5",
     "variants": [
       {
         "name": "Fine Detail"
